@@ -1,7 +1,9 @@
 comidas:
+
 pan
-galletitas
-pera
+peras
 manzanas
+bananas
+zapallitos
 
 limpieza:
