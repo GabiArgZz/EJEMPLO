@@ -7,3 +7,6 @@ bananas
 zapallitos
 
 limpieza:
+
+lavandina
+jabón
